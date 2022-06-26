@@ -1,2 +1,2 @@
 # event-platform
-projeto ignite-lab da rocketseat
+Projeto realizado no evento ignite-lab da rocketseat
